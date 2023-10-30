@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samuel N Paul Sebastian Burra</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
+- 📫 How to reach me **bsamuelniranjanpaul@gmail.com**
+
+- ⚡ Fun fact **i love editing content**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samuel n paul sebastian burra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel n paul sebastian burra" height="30" width="40" /></a>
